@@ -1,0 +1,16 @@
+{
+  "name": "dhtmlxScheduler",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "components"
+  ],
+  "dependencies": {
+    "html5shiv": "latest",
+    "respond": "latest",
+    "jquery": "latest",
+    "less.js": "latest",
+    "knockout": "latest",
+    "bootstrap": "latest"
+  }
+}
